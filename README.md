@@ -13,4 +13,4 @@ Usage: review_protocol.rb [options]
     -p, --project PROJECT            project name, used in file name (e.g Pj117)
     -k, --package PACKAGE            generate protocol (only) for this (work)package
         --rev FROM:TO                valid revision range
-    		--pdf                        convert report to pdf as well
+        --pdf                        convert report to pdf as well
